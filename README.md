@@ -1,3 +1,4 @@
 # maven_training
-cf https://docs.github.com/en/actions/managing-workflow-runs/adding-a-workflow-status-badge
-cf https://codecov.io/gh/SaboXV/maven_training/settings/badge
+![Build Ci](https://github.com/SaboXV/maven_training/actions/workflows/build.yml/badge.svg)
+[![codecov](https://codecov.io/gh/SaboXV/maven_training/branch/main/graph/badge.svg?token=NhKjUI5Dwt)](https://codecov.io/gh/SaboXV/maven_training)
+
